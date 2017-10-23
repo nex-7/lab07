@@ -19,7 +19,7 @@ $ open https://www.stack.nl/~dimitri/doxygen/manual/index.html
 
 Устанавливаем переменную окружения `GITHUB_USERNAME`.
 ```ShellSession
-$ export GITHUB_USERNAME=TalkedDevotee # Установка переменной окружения
+$ export GITHUB_USERNAME=nex-7 # Установка переменной окружения
 $ alias edit=vim # Выбираем текстковый редактор Vim
 ```
 
